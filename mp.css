@@ -60,15 +60,6 @@
     z-index: 4;
 }
 
-/* .img{
-    display : flex;
-    z-index: 3;
-    width : 8%;
-    height: 8%;
-    top: 700px;
-    left: 150px;
-} */
-
 .PP{
     cursor: pointer;
     justify-content: center;
